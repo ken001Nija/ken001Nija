@@ -4,7 +4,7 @@ I am Kenneth Sunday, a dedicated data analyst and scientist from Nigeria 🇳�
 
 ## 🌍 About Me
 
-As a sales professional with over five years of experience, I have developed a strong foundation in FMCG, consulting, sales planning and execution, business development, data analytics, and digital execution. My experience spans across multiple industries, giving me a well-rounded perspective on how data can be leveraged to enhance business outcomes.
+As a sales professional with over five years of experience, I have developed a strong foundation in sales planning and execution, business development, data analytics, and digital execution. My experience spans across multiple industries partiularly FMCG and Consumer retail, giving me a well-rounded perspective on how data can be leveraged to enhance business outcomes.
 
 Currently, I am transitioning into the tech industry, focusing on Data Science and Business Analytics. My goal is to combine my sales expertise with data science to provide deeper insights and more strategic decision-making capabilities.
 
@@ -19,7 +19,7 @@ Currently, I am transitioning into the tech industry, focusing on Data Science a
 
 ## 🎓 Education
 
-- **🎓 Great Lakes Post Graduate Program in Data Science and Business Analytics** - Currently pursuing
+- **🎓 Great Learning Post Graduate Program in Data Science and Business Analytics** - Currently pursuing
 - **🎓 Bachelor of Science in Physiology** - Federal University of Agriculture, Abeokuta, Nigeria (Graduated: December 2015)
 
 ## 📜 Certifications
