@@ -20,7 +20,7 @@ Currently, I am transitioning into the tech industry, focusing on Data Science a
 ## 🎓 Education
 
 - **🎓 Great Learning Post Graduate Program in Data Science and Business Analytics** - Currently pursuing
-- **🎓 Bachelor of Science in Physiology** - Federal University of Agriculture, Abeokuta, Nigeria (Graduated: December 2015)
+- **🎓 Bachelor of Science in Animal Physiology** - Federal University of Agriculture, Abeokuta, Nigeria (Graduated: December 2015)
 
 ## 📜 Certifications
 
